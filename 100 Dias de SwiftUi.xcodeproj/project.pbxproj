@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		C0CBE678263A5DDF00E6C4EB /* var_let.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = var_let.swift; sourceTree = "<group>"; };
 		C0CBE679263A5ECC00E6C4EB /* collections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = collections.swift; sourceTree = "<group>"; };
+		C0CBE67A263A61CA00E6C4EB /* operators_and_conditions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = operators_and_conditions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -40,6 +41,7 @@
 		C0CBE677263A5D6000E6C4EB /* Dia 3 */ = {
 			isa = PBXGroup;
 			children = (
+				C0CBE67A263A61CA00E6C4EB /* operators_and_conditions.swift */,
 			);
 			name = "Dia 3";
 			sourceTree = "<group>";
