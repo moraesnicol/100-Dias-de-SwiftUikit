@@ -6,19 +6,42 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		C0CBE678263A5DDF00E6C4EB /* var_let.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = var_let.swift; sourceTree = "<group>"; };
+		C0CBE679263A5ECC00E6C4EB /* collections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = collections.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		C0CBE66E263A5CD400E6C4EB = {
 			isa = PBXGroup;
 			children = (
 				C0CBE675263A5D2100E6C4EB /* Dia 1 */,
+				C0CBE676263A5D5700E6C4EB /* Dia 2 */,
+				C0CBE677263A5D6000E6C4EB /* Dia 3 */,
 			);
 			sourceTree = "<group>";
 		};
 		C0CBE675263A5D2100E6C4EB /* Dia 1 */ = {
 			isa = PBXGroup;
 			children = (
+				C0CBE678263A5DDF00E6C4EB /* var_let.swift */,
 			);
 			name = "Dia 1";
+			sourceTree = "<group>";
+		};
+		C0CBE676263A5D5700E6C4EB /* Dia 2 */ = {
+			isa = PBXGroup;
+			children = (
+				C0CBE679263A5ECC00E6C4EB /* collections.swift */,
+			);
+			name = "Dia 2";
+			sourceTree = "<group>";
+		};
+		C0CBE677263A5D6000E6C4EB /* Dia 3 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Dia 3";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
