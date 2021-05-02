@@ -7,15 +7,25 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		C0C51443263E2AB50083AC53 /* Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Loops.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C0CBE678263A5DDF00E6C4EB /* var_let.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = var_let.swift; sourceTree = "<group>"; };
 		C0CBE679263A5ECC00E6C4EB /* collections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = collections.swift; sourceTree = "<group>"; };
 		C0CBE67A263A61CA00E6C4EB /* operators_and_conditions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = operators_and_conditions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		C0C51442263E2A500083AC53 /* Day 4 */ = {
+			isa = PBXGroup;
+			children = (
+				C0C51443263E2AB50083AC53 /* Loops.playground */,
+			);
+			name = "Day 4";
+			sourceTree = "<group>";
+		};
 		C0CBE66E263A5CD400E6C4EB = {
 			isa = PBXGroup;
 			children = (
+				C0C51442263E2A500083AC53 /* Day 4 */,
 				C0CBE675263A5D2100E6C4EB /* Dia 1 */,
 				C0CBE676263A5D5700E6C4EB /* Dia 2 */,
 				C0CBE677263A5D6000E6C4EB /* Dia 3 */,
