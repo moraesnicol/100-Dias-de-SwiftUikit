@@ -64,7 +64,7 @@
 			attributes = {
 				LastUpgradeCheck = 1250;
 			};
-			buildConfigurationList = C0CBE672263A5CD400E6C4EB /* Build configuration list for PBXProject "100 Dias de SwiftUi" */;
+			buildConfigurationList = C0CBE672263A5CD400E6C4EB /* Build configuration list for PBXProject "100 Dias de Swift Uikit" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -96,7 +96,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C0CBE672263A5CD400E6C4EB /* Build configuration list for PBXProject "100 Dias de SwiftUi" */ = {
+		C0CBE672263A5CD400E6C4EB /* Build configuration list for PBXProject "100 Dias de Swift Uikit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C0CBE673263A5CD400E6C4EB /* Debug */,
