@@ -27,8 +27,4 @@ func getNumber() -> Int {
     return 5
 }
 
-func square<T>(_ value: T) -> T {
-    return value * value
-}
 
-print(square(5))
