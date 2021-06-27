@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		C0C51443263E2AB50083AC53 /* Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Loops.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C0C944A526890A0A0073507D /* Structs_Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs_Two.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C0CBE678263A5DDF00E6C4EB /* var_let.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = var_let.swift; sourceTree = "<group>"; };
 		C0CBE679263A5ECC00E6C4EB /* collections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = collections.swift; sourceTree = "<group>"; };
 		C0CBE67A263A61CA00E6C4EB /* operators_and_conditions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = operators_and_conditions.swift; sourceTree = "<group>"; };
@@ -37,17 +38,26 @@
 			name = "Day 4";
 			sourceTree = "<group>";
 		};
+		C0C944A4268909D50073507D /* Day 9 */ = {
+			isa = PBXGroup;
+			children = (
+				C0C944A526890A0A0073507D /* Structs_Two.playground */,
+			);
+			path = "Day 9";
+			sourceTree = "<group>";
+		};
 		C0CBE66E263A5CD400E6C4EB = {
 			isa = PBXGroup;
 			children = (
 				C0CBE675263A5D2100E6C4EB /* Day  1 */,
-				C0CBE677263A5D6000E6C4EB /* Day  3 */,
 				C0CBE676263A5D5700E6C4EB /* Day 2 */,
+				C0CBE677263A5D6000E6C4EB /* Day 3 */,
 				C0C51442263E2A500083AC53 /* Day 4 */,
 				C07BA0C9268676E2008F3398 /* Day 5 */,
 				C0F6604726880F9700AC01E5 /* Day 6 */,
 				C0F660492688195F00AC01E5 /* Day 7 */,
 				C0F6604B2688361300AC01E5 /* Day 8 */,
+				C0C944A4268909D50073507D /* Day 9 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -67,13 +77,13 @@
 			name = "Day 2";
 			sourceTree = "<group>";
 		};
-		C0CBE677263A5D6000E6C4EB /* Day  3 */ = {
+		C0CBE677263A5D6000E6C4EB /* Day 3 */ = {
 			isa = PBXGroup;
 			children = (
 				C0F6603C26880BEA00AC01E5 /* Day 6 */,
 				C0CBE67A263A61CA00E6C4EB /* operators_and_conditions.swift */,
 			);
-			name = "Day  3";
+			name = "Day 3";
 			sourceTree = "<group>";
 		};
 		C0F6604726880F9700AC01E5 /* Day 6 */ = {
